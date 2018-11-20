@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello,
+
+Coding in R can be a challenge! Thanks for Tidyverse :)
